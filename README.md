@@ -36,13 +36,13 @@ The goal of this assignment is to demonstrate the ability to:
 
 ## 📂 Project Structure
 
-`bash
+```bash
 quote_scraper/
 │
 ├── scraper.py # Main scraping script
 ├── output.csv # Scraped data output
 └── README.md # Project documentation
-
+```
 
 
 ## 📑 Data Extracted
@@ -90,10 +90,8 @@ Install required Python libraries using pip:
 
 ```bash
 pip install selenium beautifulsoup4
-`
-
-## How to run this 
+```
 
 ```bash
 python scraper.py
-`
+```
