@@ -92,6 +92,8 @@ Install required Python libraries using pip:
 pip install selenium beautifulsoup4
 ```
 
+Execute the script using below command:
+
 ```bash
 python scraper.py
 ```
