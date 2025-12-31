@@ -60,8 +60,9 @@ For each quote, the following details are captured:
 
 The generated `output.csv` file contains the following columns:
 
+```bash
 quote | author | tags | page_number
-
+```
 
 ---
 
